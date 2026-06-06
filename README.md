@@ -40,6 +40,7 @@ YOLO Platform V2.0 是一款面向工业级应用的全功能计算机视觉开�
 ## 功能特性
 
 ### 1. 五大核心任务支持
+<img width="1920" height="1030" alt="a910773725f3dc0f0095744bf710312b" src="https://github.com/user-attachments/assets/9b55c40e-910e-410e-b664-8815af589130" />
 
 | 任务类型 | 英文名称 | 核心功能 | 适用场景 |
 |----------|----------|----------|----------|
@@ -448,6 +449,9 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 *本文档由 YOLO Platform 技术开发者FongSeungyen编写，遵循 MIT 开源协议。*
 
 *最后更新：2026-04-22*
+
+<img width="903" height="810" alt="9cee14dfecc804352ce1b58cbd56ed25" src="https://github.com/user-attachments/assets/cb55fca1-bc7d-4cfb-ab03-35e26186e524" />
+
 
 ---
 
