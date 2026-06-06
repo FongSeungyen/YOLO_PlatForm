@@ -40,8 +40,8 @@ YOLO Platform V2.0 是一款面向工业级应用的全功能计算机视觉开�
 ## 功能特性
 
 ### 1. 五大核心任务支持
+<img width="1920" height="1030" alt="5566d025841daf500168547e9d6973f7" src="https://github.com/user-attachments/assets/86290e36-0ae7-4524-9626-d7b49759eb76" />
 <img width="1920" height="1030" alt="a910773725f3dc0f0095744bf710312b" src="https://github.com/user-attachments/assets/9b55c40e-910e-410e-b664-8815af589130" />
-
 | 任务类型 | 英文名称 | 核心功能 | 适用场景 |
 |----------|----------|----------|----------|
 | **图像分类** | Classify | • 图像级分类<br>• 多标签分类<br>• 置信度评分 | 内容识别、图像分类 |
@@ -51,7 +51,8 @@ YOLO Platform V2.0 是一款面向工业级应用的全功能计算机视觉开�
 | **定向边界框** | OBB | • 旋转矩形检测<br>• 方向感知检测<br>• 任意角度目标 | 遥感、文本检测 |
 
 ### 2. 数据集管理与预处理
-
+<img width="1920" height="1030" alt="592805689ac452ecccabeb2ea0209838" src="https://github.com/user-attachments/assets/f62e326a-29e7-46e8-b0c9-8244aef19dbb" />
+<img width="1920" height="1031" alt="4ec09b73dc5db4414208f7e9f0c872c7" src="https://github.com/user-attachments/assets/d885281a-db6e-4d70-8346-f095092d316a" />
 | 功能 | 说明 |
 |------|------|
 | 多格式支持 | COCO、Pascal VOC、YOLO等3种主流格式的导入与导出、格式互相自动转换 |
@@ -60,15 +61,25 @@ YOLO Platform V2.0 是一款面向工业级应用的全功能计算机视觉开�
 | 版本控制 | 支持数据集快照、历史回溯和增量更新 |
 
 ### 3. 交互式数据标注
-
+<img width="1920" height="1030" alt="043e201919c48c50568254bbf3c2ea02" src="https://github.com/user-attachments/assets/e473bf13-c8f6-463c-8b34-ddef58fd8d26" />
+<img width="1920" height="1030" alt="dcfc71bbe975870c48ef6666793eabac" src="https://github.com/user-attachments/assets/e551784c-669f-496e-b36b-0586c020c383" />
+<img width="1920" height="1030" alt="5d877f3f37aba20f11ee80403b41e12f" src="https://github.com/user-attachments/assets/5f001f5e-bf53-446a-a615-5006e0aba5d9" />
+<img width="1920" height="1030" alt="a04d55effd9a6c2e10241e78fed3a12f" src="https://github.com/user-attachments/assets/2221b868-04dc-4b0c-92c6-fd4a0c1d842a" />
+<img width="1920" height="1030" alt="2ae637c4d540914a1744d108bbb7b7ac" src="https://github.com/user-attachments/assets/de636f7c-ff59-49c8-b332-3f9eb64658d2" />
 | 功能 | 说明 |
 |------|------|
 | 多种标注方式 | 支持矩形框、多边形、关键点、旋转框等多种标注方式 |
 | AI辅助标注 | 集成AI预标注功能，全五种任务类型支持，大幅提升标注效率 |
 | 标注审核 | 支持对AI标注进行快速审核和精细调整 |
+<img width="1500" height="939" alt="88610b9b9121c666533b168e00f4879a" src="https://github.com/user-attachments/assets/21b2f3ba-55ff-493f-a441-161e04e0713c" />
+<img width="1920" height="1030" alt="50f88719e548a32215f1e15619b448db" src="https://github.com/user-attachments/assets/57075226-d65d-4367-b6c7-80cb9d7e0a0d" />
+<img width="1920" height="1030" alt="e27f2a4e31f442ef8a6a9ee054babc11" src="https://github.com/user-attachments/assets/cb1dd065-e21b-412f-b8a1-01d8db0d314f" />
 
 ### 4. 模型训练
-
+<img width="1920" height="1030" alt="0b9b3c4e42c5d3a9faa525d156e1b35c" src="https://github.com/user-attachments/assets/73524a82-dd10-42a6-83af-403366cdb5ca" />
+<img width="1920" height="1030" alt="87aa0bc47b8baa1ec789d55bfc8aae68" src="https://github.com/user-attachments/assets/8dfc18c9-3e76-4ebf-9ae8-02492a70813b" />
+<img width="1920" height="1030" alt="db053e6a18febd5fcd7bbfd57c2c9674" src="https://github.com/user-attachments/assets/dec456d1-1599-4d06-a4aa-cf7dcf7afb6f" />
+<img width="1920" height="1030" alt="c0eedc677e1978822f4b8503e1f1f163" src="https://github.com/user-attachments/assets/60b37b3a-06c2-4d31-9c52-a0f42c7bb876" />
 | 功能 | 说明 |
 |------|------|
 | 模型架构 | YOLOv8、YOLO11、YOLO26 全系列支持（n/s/m/l/x） |
@@ -77,7 +88,8 @@ YOLO Platform V2.0 是一款面向工业级应用的全功能计算机视觉开�
 | 多GPU支持 | 支持多GPU数据并行（DDP）训练 |
 
 ### 5. 模型评估
-
+<img width="1920" height="1030" alt="26f2a208e598506a51b7250ea951dc6c" src="https://github.com/user-attachments/assets/e35e3131-ad75-4bae-9b77-1f42e2f233dc" />
+<img width="1920" height="1030" alt="6715a4876d094544b920b1d0c1277457" src="https://github.com/user-attachments/assets/ab7737c5-7441-45ad-a4fd-1e084ba1268c" />
 | 功能 | 说明 |
 |------|------|
 | 基础指标 | mAP@0.5、mAP@0.5:0.95、Precision、Recall、F1-Score |
@@ -86,7 +98,8 @@ YOLO Platform V2.0 是一款面向工业级应用的全功能计算机视觉开�
 | 模型对比 | 支持不同模型版本的性能对比分析 |
 
 ### 6. 模型导出与部署
-
+<img width="1920" height="1030" alt="40e1c5bf6c2e9058e61906199a398e14" src="https://github.com/user-attachments/assets/b2101a44-51b9-4e38-85df-d147d5fcf15d" />
+<img width="1920" height="1030" alt="fbd15ac7b176d3a0e0a841af1e9313e5" src="https://github.com/user-attachments/assets/4d8a0493-76b2-4d36-8ce0-1641e58b7c11" />
 | 功能 | 说明 |
 |------|------|
 | 多格式导出 | 支持ONNX、TensorRT、CoreML、TFLite、OpenVINO、Paddle等主流部署格式 |
@@ -96,7 +109,8 @@ YOLO Platform V2.0 是一款面向工业级应用的全功能计算机视觉开�
 | 边缘部署 | 支持TensorRT、CoreML、OpenVINO等多平台边缘加速 |
 
 ### 7. 现代化GUI设计
-
+<img width="1125" height="750" alt="0e096af37c0b4fc9a9c9ddc82483ba88" src="https://github.com/user-attachments/assets/4feb32b3-3f62-4c6d-a9b3-3ed2f2286d2e" />
+<img width="1920" height="1030" alt="c726372e56f1b85415ed51b0c0532c64" src="https://github.com/user-attachments/assets/72276961-0010-43d3-9e32-c826f89ba765" />
 | 功能 | 说明 |
 |------|------|
 | 界面设计 | 符合Material Design规范的现代化界面设计 |
@@ -456,3 +470,5 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 ---
 
 © 2026 FongSeungyen. All Rights Reserved.
+<img width="3200" height="3600" alt="QR Code" src="https://github.com/user-attachments/assets/366e7a06-225c-40e9-ac26-f4f0416c5be3" />
+
